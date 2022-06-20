@@ -20,6 +20,8 @@ Kecik-C3 Beta RGB
 - UART Module
 - LED Module
 
+Kecik C3 Beta Pinouts
+![Pinouts](https://raw.githubusercontent.com/00TLalu/Kecik-C3/main/Images/KECIK_C3%20Circuit%20Pinouts.jpg)
 
 Kecik C3 Beta Version Front View
 ![Front](https://raw.githubusercontent.com/00TLalu/Kecik-C3/a88c0afc1b9441940662a630aa9ae4d8be5f068c/Images/front.jpg)
