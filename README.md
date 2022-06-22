@@ -29,3 +29,7 @@ Kecik C3 Beta Version Front View
 Kecik C3 Beta Version Back View
 ![Back](https://raw.githubusercontent.com/00TLalu/Kecik-C3/a88c0afc1b9441940662a630aa9ae4d8be5f068c/Images/back.jpg)
 
+
+RGB Module Demo
+https://user-images.githubusercontent.com/95273257/174926218-a03e7341-7a2a-4c92-8bec-a1ab895cf987.mp4
+
